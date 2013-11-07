@@ -1,2 +1,3 @@
-minecraftserverscript
-=====================
+Readme für die minecraftserver.sh
+
+
