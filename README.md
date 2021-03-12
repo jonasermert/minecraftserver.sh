@@ -1,3 +1,3 @@
-Readme für die minecraftserver.sh
+Readme minecraftserver.sh
 
 
